@@ -58,7 +58,7 @@ DATABASE_URL = "postgresql://<username>:<passwor>d@localhost:<port>/<your_db_nam
 CREATE DATABASE <your_db_name>;
 ```
 
-## 🚀 Run the API Server
+##  Run the API Server
 
 Start the server with:
 
