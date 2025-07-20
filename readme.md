@@ -9,7 +9,7 @@ It provides:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 app/
@@ -33,14 +33,14 @@ cd wheel-specification-api
 
 ### Create Virtual Environment
 
-```bash
+```terminal
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+venv\Scripts\activate
 ```
 
 ###  Install Dependencies
 
-```bash
+```terminal
 pip install -r requirements.txt
 ```
 
@@ -62,7 +62,7 @@ CREATE DATABASE <your_db_name>;
 
 Start the server with:
 
-```bash
+```terminal
 uvicorn app.main:app --reload
 ```
 
