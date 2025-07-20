@@ -1,4 +1,4 @@
-# 🚀 Wheel Specification API (FastAPI + PostgreSQL)
+#  Wheel Specification API (FastAPI + PostgreSQL)
 
 This project is a RESTful API built using **FastAPI** and **PostgreSQL** to manage wheel specification forms.
 
